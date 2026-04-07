@@ -30,3 +30,9 @@ Make sure Python is installed, then run:
 
 ```bash
 py main.py
+
+## Output
+
+If everything is correct, you will see:
+
+Ran 3 tests
